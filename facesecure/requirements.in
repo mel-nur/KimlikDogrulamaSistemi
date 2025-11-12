@@ -1,0 +1,13 @@
+flask
+python-dotenv
+pymongo
+cryptography
+numpy
+scikit-learn
+streamlit
+opencv-python
+mediapipe
+pytest
+tensorflow
+keras-facenet
+mtcnn
